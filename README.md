@@ -23,6 +23,7 @@
   </style>
 </head>
 <body>
+  <h1>Here is a real photo of Brandon Nolen</h1>
   <img src="IMG_9858.jpeg" alt="My Image">
 </body>
 </html>
