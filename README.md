@@ -3,5 +3,26 @@
 
 # Dana sucks butt
 
-
-<img src="C:\Users\e40043433\Desktop\images\brandon.jpg" alt="A cool picture" width="400">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Image Site</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <img src="IMG_9858.jpeg" alt="My Image">
+</body>
+</html>
