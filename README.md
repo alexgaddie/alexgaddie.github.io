@@ -15,6 +15,12 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
+      text-align: center;
+    }
+    h1 {
+      color: white;
+      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+      margin-bottom: 20px;
     }
     img {
       max-width: 100%;
